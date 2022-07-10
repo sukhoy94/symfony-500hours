@@ -16,3 +16,10 @@ Day 10.07.2022
 ```
 npm install -D tailwindcss postcss-loader purgecss-webpack-plugin glob-all path
 ```
+
+
+Compile css with tailwind 
+
+```
+npx tailwindcss -i ./assets/styles/app.css -o ./public/build/app.css --watch
+```

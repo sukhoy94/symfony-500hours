@@ -4,7 +4,7 @@ Tracking progress of learning symfony
 
 Summary (1h 20m)
 
-Day 10.07.2022 (1h)
+Day 10.07.2022 (1h 20m)
 
 * The Asset Component
 

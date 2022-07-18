@@ -2,7 +2,7 @@
 Tracking progress of learning symfony
 
 
-Summary (1h 20m)
+Summary (3h 20m)
 
 Day 10.07.2022 (1h 20m)
 
@@ -24,3 +24,11 @@ Compile css with tailwind
 ```
 npx tailwindcss -i ./assets/styles/app.css -o ./public/build/app.css --watch
 ```
+
+Day 17.07.2022 (2h)
+
+* make:crud command
+
+* forms
+
+* add bootstrap for css styling
